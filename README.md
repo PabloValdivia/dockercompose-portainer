@@ -10,6 +10,6 @@
 
 Start docker swarm mode `docker swarm init` (just the first time).
 
-Run portainer `make`.s
+Run portainer `make`.
 
 Portainer path http://127.0.0.1:9000.
